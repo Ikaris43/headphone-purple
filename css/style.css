@@ -19,15 +19,20 @@ body {
 
 header {
     grid-area: header;
-    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 100px;
 }
+
 
 main {
     grid-area: main;
-    background-color: green;
+    
 }
 
 footer {
     grid-area: footer;
-    background-color: yellow;
+   
 }
+
