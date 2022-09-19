@@ -2,6 +2,8 @@
 
 ![](./img/screenshot.png)
 
+[Clique Aqui](https://ikaris43.github.io/headphone-purple/) para acessar o site!
+
 ---
 
 ## Sobre
