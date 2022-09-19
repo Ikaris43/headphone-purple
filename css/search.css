@@ -2,4 +2,10 @@
     color: white;
     font-size: 2rem;
     transform: rotate(90deg);
+    transition: all .5s;
+
+}
+    
+.search:hover {
+    color: black;
 }
